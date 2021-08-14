@@ -10,6 +10,7 @@ export default class Menu extends Vue {
         <ul>
           <li>
             <router-link to={{ path: "/" }}>Home</router-link>
+            {/* tôi cố làm gì rồi đây rồi nha */}
           </li>
           <li>
             <router-link to={{ path: "/itemInCart" }}>Shopping Cart</router-link>
